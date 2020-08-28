@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background: gray;
+  font-family: Helvetica, Sans-Serif;
+  font-size: 14px;
+}
+
+h3,
+h4,
+p {
+  margin: 0 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex-row-sb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.width-620 {
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.false {
+  visibility: hidden;
+}
+
+.content {
+  height: 100%;
+  box-sizing: border-box;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+
+* {
+  -webkit-appearance: none;
+}
