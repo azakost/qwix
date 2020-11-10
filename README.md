@@ -1,8 +1,11 @@
 ## Qwix - сервис быстрого формирования заказов для инстаграм-магазинов!
 
-![1](https://github.com/azakost/qwix/blob/master/1.jpeg?raw=true) 
+<div style="display: flex;">
+  
+<img src="https://github.com/azakost/qwix/blob/master/1.jpeg?raw=true" width="320px" /> 
+<img src="https://github.com/azakost/qwix/blob/master/2.jpeg?raw=true" width="320px" /> 
 
-![2](https://github.com/azakost/qwix/blob/master/2.jpeg?raw=true)
+</div>
 
 ### Что делает сервис?
 Для владельца инстарграм-магазина генерируется специальная ссылка, 
