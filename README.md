@@ -14,7 +14,7 @@ https://qwix.kz/?order=BHygMlS~FuLaaa~ru
 
 ### Особенность:
 Официальный API инстаграма не позволяет вытягивать фотографии любого инстаграм-профиля.
-Поэтому мною был написан небольшой js-скрипт[https://github.com/azakost/qwix/blob/master/src/Scripts/parse.js] для парсинга в обход официального API.
+Поэтому мною был написан небольшой [https://github.com/azakost/qwix/blob/master/src/Scripts/parse.js js-скрипт] для парсинга в обход официального API.
 
 
 ### Статус проекта
